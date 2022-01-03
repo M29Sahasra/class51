@@ -1,0 +1,25 @@
+{
+  "description": "",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "hotel_menu",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Colombo",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "e75f7fa3b65640f09b966abdfcf2f3f0",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/hotel-menu-jeyj/knowledgeBases/NDg5MjE3ODAzMTc0MjgxMjE2"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

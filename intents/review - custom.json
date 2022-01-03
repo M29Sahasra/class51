@@ -1,0 +1,41 @@
+{
+  "id": "cc5d1ee8-a513-4763-bb0d-e8bdb45fad20",
+  "parentId": "3546a9bb-8c26-45ab-8a38-ab3c016497e8",
+  "rootParentId": "3546a9bb-8c26-45ab-8a38-ab3c016497e8",
+  "name": "review - custom",
+  "auto": true,
+  "contexts": [
+    "review-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "review.review-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "bye",
+            "have a nice day",
+            "take care"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

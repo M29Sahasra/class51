@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f7db41be-9c1a-4bd4-9314-e77292ba0878",
+    "data": [
+      {
+        "text": "review of ",
+        "userDefined": false
+      },
+      {
+        "text": "$",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      },
+      {
+        "text": "dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6498ec18-82eb-4dc8-9c2b-431707742e07",
+    "data": [
+      {
+        "text": "can i get a review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
